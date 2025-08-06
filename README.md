@@ -1,4 +1,8 @@
 # 🎮 Tic Tac Toe in Python (Tkinter)
+[![GitHub last commit](https://img.shields.io/github/last-commit/aispai9995/tic-tac-toe-python-tkinter?color=green&logo=github&style=for-the-badge)](https://github.com/aispai9995/tic-tac-toe-python-tkinter) 
+[![GitHub top language](https://img.shields.io/github/languages/top/aispai9995/tic-tac-toe-python-tkinter?color=F37626&logo=jupyter&style=for-the-badge)](https://github.com/aispai9995/tic-tac-toe-python-tkinter) 
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aispai9995/tic-tac-toe-python-tkinter?style=for-the-badge&color=blue)](https://github.com/aispai9995/tic-tac-toe-python-tkinter)
+
 
 A simple yet fun **Tic Tac Toe** game built using **Python** and **Tkinter** GUI library.  
 By running this note book, you can play against the computer in two difficulty modes:  
